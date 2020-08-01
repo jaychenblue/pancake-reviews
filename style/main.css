@@ -1,0 +1,6 @@
+.navbar-nav a {
+    text-transform: uppercase;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+}
