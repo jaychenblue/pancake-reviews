@@ -1,5 +1,7 @@
 body {
     background-image: url(../img/night.jpg);
+    width: 100%;
+    height: auto;
 }
 
 .navbar-nav a {
