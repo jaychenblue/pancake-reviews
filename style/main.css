@@ -32,6 +32,9 @@ body {
     border-radius: 15px;
     background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../img/night.jpg);
     /* opacity: 80%; */
-    padding: 40px;
-    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 30px;
 }
