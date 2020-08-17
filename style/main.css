@@ -26,3 +26,15 @@ body {
     border-bottom: 1px solid #ffffff;
     padding-bottom: 3px;
 }
+
+.container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../img/night.jpg);
+    /* opacity: 80%; */
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 30px;
+}
