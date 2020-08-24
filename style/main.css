@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/night.jpg);
+    background-image: url(../img/night.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -30,7 +30,7 @@ body {
 .container {
     background-color: #ffffff;
     border-radius: 15px;
-    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../img/night.jpg);
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../img/night.png);
     /* opacity: 80%; */
     padding-top: 30px;
     padding-bottom: 10px;
